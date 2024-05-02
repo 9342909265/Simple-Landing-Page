@@ -23,7 +23,7 @@ a{
     font-size: 20px;
 }
 .mid{
-    background: url(../image/image4.png);
+    background: url(image4.png);
     background-size: cover;
     height: 400px;
     color: rgb(153, 14, 14);
